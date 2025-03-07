@@ -1,3 +1,7 @@
+let myobj = {
+    town: "Stupidville"
+};
+
 let obj2 = myobj;
 
 //obj2 and myobj are the same variable
